@@ -1,10 +1,9 @@
 # CSP Library Solving
 Constraint satisfaction problems (CSPs) are mathematical problems defined as a set of objects whose state must meet a certain number of constraints. In this project, a MATLAB library was built, providing useful tools to solve this type of problems using Bernstein's polynomials.<br>
-In the Wiki pages a brief description of the library can be found. For further information check comment headers in each individual file. A English version of this documentation is not provided at the time being.
+For further information check comment headers in each individual file. A English version of this documentation is not provided at the time being.
 
 I problemi di soddisfacimento di vincoli (CSPs) sono problemi matematici definiti come un insieme
-di oggetti il cui stato deve soddisfare un certo numero di vincoli. In questo progetto si è creata una libreria contenente tools utili alla risoluzione di questo tipo di problemi sfruttando i polinomi di Bernstein.<br>
-Nella pagine della Wiki viene riportata una breve descrizione dei singoli tools. Per maggiori informazioni consultare i singoli file di interesse.
+di oggetti il cui stato deve soddisfare un certo numero di vincoli. In questo progetto si è creata una libreria contenente tools utili alla risoluzione di questo tipo di problemi sfruttando i polinomi di Bernstein.
 
 Installazione
 -------------
